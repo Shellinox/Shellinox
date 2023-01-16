@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 Behance: https://www.behance.net/shellinox407<br>
-Imstagram: https://instagram.com/sahilll.h<br>
+Instagram: https://instagram.com/sahilll.h<br>
 Linkedin: https://www.linkedin.com/in/sahil-hussain-13065422b/<br>
 GeeksForGeeks: https://auth.geeksforgeeks.org/user/husainsahil09/<br>
 Hackerrrank: https://www.hackerrank.com/CSEC_21B0101108<br>
