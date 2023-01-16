@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 Currently working on Flutter<br>🌱 Learning Flutter and UI design 
+🔭 Currently working on Flutter<br>🌱 Learning Flutter and UI design <br>
 
+[![An image of @shellinox's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shellinox)](https://holopin.io/@shellinox)
 
 ## 🌐 Socials:
 Behance: https://www.behance.net/shellinox407<br>
@@ -9,7 +10,6 @@ Linkedin: https://www.linkedin.com/in/sahil-hussain-13065422b/<br>
 GeeksForGeeks: https://auth.geeksforgeeks.org/user/husainsahil09/<br>
 Hackerrrank: https://www.hackerrank.com/CSEC_21B0101108<br>
 
-[![An image of @shellinox's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shellinox)](https://holopin.io/@shellinox)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
