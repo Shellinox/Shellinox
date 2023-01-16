@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>🌱 I’m currently learning Flutter and UI design 
+🔭 Currently working on Flutter<br>🌱 Learning Flutter and UI design 
 
 
 ## 🌐 Socials:
