@@ -3,10 +3,12 @@
 
 
 ## 🌐 Socials:
-Behance: (https://behance.net/Shellinox 407)<br>
-Imstagram: (https://instagram.com/sahilll.h)<br>
-Linkedin: (https://linkedin.com/in/Sahil Hussain) 
-<br>
+Behance: https://www.behance.net/shellinox407<br>
+Imstagram: https://instagram.com/sahilll.h<br>
+Linkedin: https://www.linkedin.com/in/sahil-hussain-13065422b/<br>
+GeeksForGeeks: https://auth.geeksforgeeks.org/user/husainsahil09/<br>
+Hackerrrank: https://www.hackerrank.com/CSEC_21B0101108<br>
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) 
