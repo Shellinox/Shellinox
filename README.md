@@ -1,6 +1,6 @@
 # 💫 About Me:
  ## Hello, I'm Sahil Hussain!<br>
-🔭 Currently working on Flutter<br>🌱 Learning Flutter and UI design <br>
+🔭 Currently working on Machine/Deep Learning and Data Science<br>🌱 160+ Problems on Leetcode and 475 University Rank on Geeks for Geeks <br>
 
 [![An image of @shellinox's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shellinox)](https://holopin.io/@shellinox)
 
@@ -9,7 +9,7 @@ Behance: https://www.behance.net/shellinox407<br>
 Instagram: https://instagram.com/sahilll.h<br>
 Linkedin: https://www.linkedin.com/in/sahil-hussain-13065422b/<br>
 GeeksForGeeks: https://auth.geeksforgeeks.org/user/husainsahil09/<br>
-Hackerrrank: https://www.hackerrank.com/CSEC_21B0101108<br>
+Leetcode: https://leetcode.com/husainsahil09/<br>
 
 
 # 💻 Tech Stack:
