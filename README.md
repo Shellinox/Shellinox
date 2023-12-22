@@ -1,6 +1,6 @@
 # 💫 About Me:
  ## Hello, I'm Sahil Hussain!<br>
-🔭 Currently working on Machine/Deep Learning and Data Science<br>🌱 160+ Problems on Leetcode and 475 University Rank on Geeks for Geeks <br>
+🔧: Currently working on Machine/Deep Learning and Data Science<br>💻: 160+ Problems on Leetcode<br> 🏅:475 University Rank on GeeksforGeeks <br>
 
 [![An image of @shellinox's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shellinox)](https://holopin.io/@shellinox)
 
