@@ -1,6 +1,6 @@
 # 💫 About Me:
  ## Hello, I'm Sahil Hussain!<br>
-🔧: FLutter developer<br>💻: 160+ Problems on Leetcode<br> 🏅:475 University Rank on GeeksforGeeks <br>
+🔧: FLutter developer<br>
 
 ## 🌐 Socials:
 Instagram: https://instagram.com/sahilll.h<br>
